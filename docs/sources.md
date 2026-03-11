@@ -5,7 +5,7 @@
 > Łącznie unikalnych URL: **445**
 
 
-## 📄 Artykuły naukowe (10)
+## Artykuły naukowe (10)
 
 - <https://arxiv.org/abs/2504.14065>  
   _źródło: `New open-source spatial  and 3D tools`, `Nowe narzędzia do symulacji 3D`_
@@ -28,7 +28,7 @@
 - <https://eartharxiv.org/repository/view/9567/>  
   _źródło: `Nowe narzędzia do symulacji 3D`_
 
-## 🐙 Repozytoria GitHub (63)
+## Repozytoria GitHub (63)
 
 - <https://github.com/CesiumGS/quantized-mesh>  
   _źródło: `Cesium: lokalny pokaz terenu quantized‑mesh`, `Lokalne pipeline’y 3D-twin (PMTiles-3D-Tiles)`_
@@ -157,7 +157,7 @@
 - <https://github.com/protomaps/go-pmtiles/releases>  
   _źródło: `Offline’owy pipeline PMTiles → MapLibre z CityJSON`_
 
-## 📚 Dokumentacja (44)
+## Dokumentacja (44)
 
 - <https://www.maplibre.org/maplibre-gl-js/docs/API/functions/addProtocol/>  
   _źródło: `Lokalne pipeline’y 3D-twin (PMTiles-3D-Tiles)`, `Offline’owy pipeline PMTiles → MapLibre z CityJSON`_
@@ -248,7 +248,7 @@
 - <https://www.postgis.net/docs/manual-3.1/ST_3DIntersects.html>  
   _źródło: `Nowe narzędzia do symulacji 3D`_
 
-## 🔗 Inne zasoby (328)
+## Inne zasoby (328)
 
 - <https://json-schema.org/draft/2020-12/schema>  
   _źródło: `Atrybucja OSM - GBA: dobre praktyki licencyjne`, `Lokalne pipeline’y 3D-twin (PMTiles-3D-Tiles)`, `Nowe wdrożenia: AI w środowiskach kreatywnych` +1_
@@ -411,7 +411,7 @@
 - <https://cesium.com/learn/cesiumjs/ref-doc/Cesium3DTileStyle.html>  
   _źródło: `Lokalne pipeline’y 3D-twin (PMTiles-3D-Tiles)`_
 
-## 📁 Katalogi źródłowe
+## Katalogi źródłowe
 
 Obszar `gis` zawiera **10** katalogów:
 
